@@ -1,5 +1,6 @@
-core/
 .idea/
 result/
 classes/
 librec.iml
+*.iml
+*.class
